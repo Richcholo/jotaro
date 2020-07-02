@@ -1,0 +1,58 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+header{
+	background-color: #00012c;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: white;
+}
+header img{
+	border: 24px solid #07004c;
+	border-radius: 300px;
+	width: 400px;
+	height: 400px;
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+h2{
+	font: strong;
+}
+p{
+	font-size: 20px
+}
+li{
+	font-size: 18.5px
+}
+.jotarostand{
+	max-width: 100%;
+}
+.caption{
+	color: #808080;
+	font-style: italic;
+	font-size: 16px;
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #D3D3D3;
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
